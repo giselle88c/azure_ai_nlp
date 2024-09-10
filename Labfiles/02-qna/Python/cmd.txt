@@ -1,0 +1,20 @@
+PS C:\Users\Student\Documents\nlp\azure_ai_nlp\Labfiles\02-qna\Python\qna-app> python qna-app.py
+
+Question:
+How are you
+I'm doing great, thanks for asking!
+Confidence: 1.0
+Source: qna_chitchat_Friendly
+
+Question:
+What is microsoft credential
+Microsoft credentials enable you to validate and prove your skills with Microsoft technologies.
+Confidence: 0.9179999999999999
+Source: https://docs.microsoft.com/en-us/learn/support/faq
+
+Question:
+quit
+My lack of comedy is tragic.
+Confidence: 0.0943
+Source: qna_chitchat_Friendly
+PS C:\Users\Student\Documents\nlp\azure_ai_nlp\Labfiles\02-qna\Python\qna-app> 
